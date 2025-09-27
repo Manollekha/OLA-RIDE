@@ -6,8 +6,8 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](![Uploading Screenshot 2025-09-27 231336.png…]()
-)
+<img width="1917" height="894" alt="Screenshot 2025-09-27 231336" src="https://github.com/user-attachments/assets/5eba0e73-b6d3-4b02-a914-28f04d4bb82c" />
+
 
 ## ✨ Key Features
 
