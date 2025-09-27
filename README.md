@@ -2,11 +2,12 @@
 
 ### A comprehensive data analytics project analyzing ride-sharing data to derive actionable business insights.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https-your-streamlit-app-url-here)  This project is a complete, end-to-end data analytics solution built in a single day. It processes raw ride data, performs SQL-based analysis, and presents the findings in a live, interactive, multi-page web application.
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ola-ride123.streamlit.app/)  This project is a complete, end-to-end data analytics solution built in a single day. It processes raw ride data, performs SQL-based analysis, and presents the findings in a live, interactive, multi-page web application.
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](screenshot.png)
+![Dashboard Preview](![Uploading Screenshot 2025-09-27 231336.png…]()
+)
 
 ## ✨ Key Features
 
