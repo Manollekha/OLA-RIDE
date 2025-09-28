@@ -83,7 +83,7 @@ with st.sidebar:
 
 # --- PAGE 1: HOME ---
 if page == "Home":
-    st.markdown("<div class='page-header'><h2>🏠 Home: Project Overview</h2></div>", unsafe_allow_html=True)
+    st.markdown("<div class='page-header'><h2>Project Overview</h2></div>", unsafe_allow_html=True)
     st.markdown("Welcome to the Ola Ride Insights dashboard...")
     st.subheader("Overall Key Metrics")
 
